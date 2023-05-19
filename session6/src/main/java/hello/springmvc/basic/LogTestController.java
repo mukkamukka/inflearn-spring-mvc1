@@ -6,7 +6,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-//@Slf4j lombok annotation log 생성 필요X
+//@Slf4j lombok annotation //log 생성 필요X
 @RestController
 public class LogTestController {
 
